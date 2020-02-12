@@ -1,0 +1,1 @@
+random_monsters = ["dragon", "behemot","werewolf", "vampire"]
